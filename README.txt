@@ -15,7 +15,7 @@
  1. Include jQuery and jQuery.nowPlaying in your page.
     
      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-     <script type="text/javascript" src="scripts/jQuery.nowPlaying"></script>
+     <script type="text/javascript" src="scripts/jQuery.nowPlaying.js"></script>
      
  2. Initialize it.  
 
